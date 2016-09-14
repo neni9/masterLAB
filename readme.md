@@ -1,3 +1,8 @@
+
+E-Lycée (Projet de fin d'année CPDEV11)
+
+E-Lycée.lab est un portail dédié aux enseignants et élèves, il permet la mise en place rapide de QCM automatique en ligne.
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
